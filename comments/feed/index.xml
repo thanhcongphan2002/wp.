@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for my blog	</title>
+	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 05 Jun 2021 04:33:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Comment on Danh Hài Hoài Linh có thật sự không hỗ trợ đồng bào miền trung by user 1		</title>
+		<link>/2021/05/29/thong-tin-tieu-su-danh-hai-hoai-linh/#comment-8</link>
+
+		<dc:creator><![CDATA[user 1]]></dc:creator>
+		<pubDate>Sat, 05 Jun 2021 04:33:26 +0000</pubDate>
+		<guid isPermaLink="false">/2021/05/29/thong-tin-tieu-su-danh-hai-hoai-linh/#comment-8</guid>
+
+					<description><![CDATA[alo]]></description>
+			<content:encoded><![CDATA[<p>alo</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Danh Hài Hoài Linh có thật sự không hỗ trợ đồng bào miền trung by congphan2		</title>
+		<link>/2021/05/29/thong-tin-tieu-su-danh-hai-hoai-linh/#comment-7</link>
+
+		<dc:creator><![CDATA[congphan2]]></dc:creator>
+		<pubDate>Sat, 05 Jun 2021 04:21:50 +0000</pubDate>
+		<guid isPermaLink="false">/2021/05/29/thong-tin-tieu-su-danh-hai-hoai-linh/#comment-7</guid>
+
+					<description><![CDATA[alo alo]]></description>
+			<content:encoded><![CDATA[<p>alo alo</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
